@@ -1,3 +1,5 @@
+This library provides efficient and flexible implementations of various first-RM elliptic curves, originally implementing the RM445 curve with traits from the zkcrypto ecosystem,
+
 Usage like Generating: will add soon
 Quickstart CUDA/OpenCL codes for blstrs Scalar elements:
 Integration into your library
