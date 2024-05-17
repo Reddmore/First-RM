@@ -15,3 +15,4 @@ It only allows circuit with less or equal than 1 instance column and no rotated 
 Ability to recompile into a dynamic language (such as Lua) to be able to load code at runtime for mod support
 
 Solution: Add memory, knowledge and tools.
+Some individuals have repackaged and sold it for profit.
