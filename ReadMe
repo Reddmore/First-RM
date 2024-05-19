@@ -1,4 +1,5 @@
 The purpose of this library is to work with a very specific arithmetization with additional assumptions about the field size
+Open source and free to use.
 
 This library provides efficient and flexible implementations of various first-RM elliptic curves, originally implementing the RM445 curve with traits from the zkcrypto ecosystem,
 
