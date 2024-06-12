@@ -5,3 +5,5 @@ The Solidity compiler is distributed under the terms of either
 
 Gas calculation & parameter choices
 Tx signature verification (code in x/auth/ante.go)
+
+new deatail add soon
