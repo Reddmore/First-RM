@@ -1,4 +1,4 @@
-CARGO = cargo
+CARGO = cargo RM
 
 UNAME_S := $(shell uname -s)
 ifeq ($(UNAME_S),Darwin)
